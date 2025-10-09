@@ -1,14 +1,8 @@
 # My Gists Index
-- Week 1
-  - [Data Exploration 1](https://gist.github.com/hhale1113/3b0359de064bd94323bde5d4e28513ed)
-  - [Data Exploration 2](https://gist.github.com/hhale1113/749ff9df8bff61d8c64a789f0d0c718c)
-
-- Week 2
-  - [Data Exploration 3](https://gist.github.com/hhale1113/3a1a4e83c0d790a85d9fbe28d66064d5)
-  - [Data Exploration 4](https:..)
-  - [Module 1 Assessment](https://gist.github.com/hhale1113/0672c599808467ec609a7ff36a5eb7ad)
-  
-- Week 3
-- Week 4
-- Week 5
-- Week 6
+- Module 2
+  - [Data Cleaning](https://gist.github.com/hhale1113/30d4c79ad34dea75950acfd23623e95c)
+  - [Data Modeling](https://gist.github.com/hhale1113/0448b6b72b80c8afc4520216011151f4)
+  - [Holdout Set](https://gist.github.com/hhale1113/be411f92ce960e42271513d1fd099185)
+- Module 3
+- Module 4
+- Module 5

@@ -7,8 +7,3 @@
   - [Data Exploration 3](https://gist.github.com/hhale1113/3a1a4e83c0d790a85d9fbe28d66064d5)
   - [Data Exploration 4](https:..)
   - [Module 1 Assessment](https://gist.github.com/hhale1113/0672c599808467ec609a7ff36a5eb7ad)
-  
-- Week 3
-- Week 4
-- Week 5
-- Week 6
